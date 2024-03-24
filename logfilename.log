@@ -1,0 +1,650 @@
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001EB28CEEF80> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:result stored
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001EC46D000D0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000234DA70E710> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:result stored
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000234DA70F7F0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000200FFB7AB90> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:result stored
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000200FFB7BBE0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000019CCC3B5480> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:result stored
+WARNING:tensorflow:5 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000019CCC3B5F30> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+WARNING:tensorflow:5 out of the last 10 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000025968E82710> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:result stored
+WARNING:tensorflow:6 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000025968E83B50> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:Going in embedding.pkl
+INFO:root:img read and stored in img
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+WARNING:tensorflow:5 out of the last 17 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000002C0F8AE6050> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 18 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000002C0F8AE6050> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:Going in embedding.pkl
+INFO:root:img read and stored in img
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
+INFO:root:Program Start
+INFO:root:Program Start
+INFO:root:Going in embedding.pkl
+INFO:root:Going in embedding.pkl
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:Going in filenames.pkl
+INFO:root:Came out from both the files
+INFO:root:image is uploaded successfully
+INFO:root:came inside extract features function
+INFO:root:img read and stored in img
+INFO:root:result stored
+INFO:root:feature extracted
+INFO:root:came in recommend function
+INFO:root:recommended done
